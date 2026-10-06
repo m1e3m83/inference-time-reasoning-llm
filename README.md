@@ -26,6 +26,4 @@ A GPU is recommended (batch size 8 fits in ~15 GB VRAM; lower `BATCH_SIZE` if yo
 
 Running the notebook produces `gsm8k_64_clean.json`, `predictions_<method>.csv` per method, `summary_results.csv`, and `accuracy_vs_tokens.png`. The cleaned subset used here is in `data/`.
 
-## Results
 
-_Add the summary table and plot here after running the notebook._
